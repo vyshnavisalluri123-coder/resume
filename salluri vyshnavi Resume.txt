@@ -1,0 +1,65 @@
+SALLURI VYSHNAVI
+
+📍 India | 📧Mail: "sallurivyshnavi35@gmail.com"|
+ 📱phone no: +91-9347965529|
+🔗 GitHub:https://github.com/vyshnavisalluri123-coder 
+🔗 LinkedIn: (https://www.linkedin.com/in/vyshnavi-salluri-62376b3a9/)
+
+---
+
+PROFILE
+
+Computer Science undergraduate with strong foundations in Data Structures and Machine Learning. Skilled in building and evaluating classification models using Python, with interest in real-world problem solving.
+
+---
+
+EDUCATION
+
+B.Tech – Computer Science and Engineering
+Trinity College of Engineering and Technology
+📅 2023 – 2027 | 🎯 CGPA: 8.2
+
+Intermediate (12th)
+TSWREIS Junior girls college | 📅 2021–2023 | 95%
+
+SSC (10th)
+
+ZPSS Theegal pahad  | 📅2020–2021| CGPA:10
+
+---
+
+TECHNICAL SKILLS
+
+Languages: Python, Java, C
+Machine Learning: Scikit-learn
+Core CS: Data Structures, DBMS, Operating Systems, Computer Networks
+Tools & Platforms: Git, GitHub
+
+---
+
+PROJECTS
+
+Mushroom Classification System
+
+- Developed a machine learning model to classify edible vs poisonous mushrooms
+- Implemented and compared Logistic Regression, Decision Tree, Random Forest, and XGBoost
+- Achieved up to 99.9% accuracy on test data
+- Performed data preprocessing and feature engineering
+- Designed a simple workflow for prediction results
+
+---
+
+ACHIEVEMENTS
+
+- Solved 300+ Data Structures problems on coding platforms
+- Participated in hackathons
+- 🏆 Won 1st Prize in Chess (2 times)
+
+---
+
+ADDITIONAL INFORMATION
+
+- Strong analytical and problem-solving skills
+- Interested in Machine Learning and software development
+
+---
