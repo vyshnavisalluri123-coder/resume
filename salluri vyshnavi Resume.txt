@@ -1,65 +1,47 @@
 SALLURI VYSHNAVI
+📍 India | 📧 sallurivyshnavi35@gmail.com | 📱 +91‑9347965529
+🔗 GitHub: github.com/vyshnavisalluri123-coder | 🔗 LinkedIn: linkedin.com/in/vyshnavi-salluri-62376b3a9
 
-📍 India | 📧Mail: "sallurivyshnavi35@gmail.com"|
- 📱phone no: +91-9347965529|
-🔗 GitHub:https://github.com/vyshnavisalluri123-coder 
-🔗 LinkedIn: (https://www.linkedin.com/in/vyshnavi-salluri-62376b3a9/)
+Profile:
+Computer Science undergraduate (3rd year) passionate about software development and machine learning. Skilled in Python, Data Structures, and Machine Learning, with hands‑on experience in real‑time applications using Streamlit and GitHub deployment. Strong ability to prioritize tasks and manage time effectively, completing projects within deadlines while maintaining quality.
 
----
+Education:
+B.Tech – Computer Science and Engineering  
+Trinity College of Engineering and Technology | 2023 – 2027 | CGPA: 8.2
 
-PROFILE
+Intermediate (12th)  
+TSWREIS Junior Girls College | 2021 – 2023 | 95%
 
-Computer Science undergraduate with strong foundations in Data Structures and Machine Learning. Skilled in building and evaluating classification models using Python, with interest in real-world problem solving.
+SSC (10th)  
+ZPSS Theegal Pahad | 2020 – 2021 | CGPA: 10
 
----
-
-EDUCATION
-
-B.Tech – Computer Science and Engineering
-Trinity College of Engineering and Technology
-📅 2023 – 2027 | 🎯 CGPA: 8.2
-
-Intermediate (12th)
-TSWREIS Junior girls college | 📅 2021–2023 | 95%
-
-SSC (10th)
-
-ZPSS Theegal pahad  | 📅2020–2021| CGPA:10
-
----
-
-TECHNICAL SKILLS
-
+Technical Skills:
 Languages: Python, Java, C
-Machine Learning: Scikit-learn
+Machine Learning: Scikit‑Learn, XGBoost
 Core CS: Data Structures, DBMS, Operating Systems, Computer Networks
-Tools & Platforms: Git, GitHub
+Tools & Platforms: Git, GitHub, Streamlit
+projects:
 
----
+EduTrack Dashboard (Python + Streamlit + Pandas)
+Developed a real‑time student management app to track attendance and marks.
+Implemented interactive charts and alerts for low attendance.
+Added features for adding, updating, and deleting student records.
+Enabled CSV/Excel export for easy data handling.
+Deployed successfully on Streamlit Cloud with GitHub integration.
+👉 Live Demo: EduTrack Dashboard
 
-PROJECTS
+Smart Attendance System (Python + Streamlit):
+Built a web app to record and manage student attendance.
+Implemented CSV‑based storage for easy data handling.
+Designed a user‑friendly interface with Streamlit and deployed on Streamlit Cloud.
+Demonstrated skills in Python programming, UI development, and cloud deployment.
 
 Mushroom Classification System
+Developed ML models to classify edible vs poisonous mushrooms.
+Implemented Logistic Regression, Decision Tree, Random Forest, and XGBoost.
+Achieved up to 99.9% accuracy on test data.
+Performed preprocessing, feature engineering, and designed a prediction workflow.
 
-- Developed a machine learning model to classify edible vs poisonous mushrooms
-- Implemented and compared Logistic Regression, Decision Tree, Random Forest, and XGBoost
-- Achieved up to 99.9% accuracy on test data
-- Performed data preprocessing and feature engineering
-- Designed a simple workflow for prediction results
-
----
-
-ACHIEVEMENTS
-
-- Solved 300+ Data Structures problems on coding platforms
-- Participated in hackathons
-- 🏆 Won 1st Prize in Chess (2 times)
-
----
-
-ADDITIONAL INFORMATION
-
-- Strong analytical and problem-solving skills
-- Interested in Machine Learning and software development
-
----
+Achievements:
+Contributed projects on GitHub with live deployment (EduTrack Dashboard, Attendance App, Mushroom Classifier).
+🏆 Won 1st Prize in Chess (twice).
