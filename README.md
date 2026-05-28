@@ -1,64 +1,124 @@
-# 📄 Resume – SALLURI VYSHNAVI
+# Vyshnavi Salluri - Portfolio & Resume 💼
 
-Welcome to my resume repository!  
-This repo contains my updated resume and portfolio information, showcasing my skills, education, and projects.
+Welcome to my professional portfolio and resume repository!
 
----
+## 👋 About Me
 
-## 👩‍🎓 Profile
-- Computer Science Engineering student (3rd year)  
-- Passionate about software development and machine learning  
-- Skilled in Python, Data Structures, and Machine Learning  
-- Hands‑on experience with real‑time applications using Streamlit and GitHub deployment  
+I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** with expertise in:
+- Python programming
+- Web development (Streamlit, Django, Flask)
+- Machine Learning & Data Science
+- Data analysis and visualization
+- Student management systems
+- AI-powered applications
 
----
+## 🎯 Skills
 
-## 🎓 Education
-- **B.Tech – Computer Science and Engineering**  
-  Trinity College of Engineering and Technology | 2023 – 2027 | CGPA: 8.2  
-- **Intermediate (12th)** – TSWREIS Junior Girls College | 2021 – 2023 | 95%  
-- **SSC (10th)** – ZPSS Theegal Pahad | 2020 – 2021 | CGPA: 10  
+### Programming Languages
+- Python 🐍 (Advanced)
+- JavaScript (Intermediate)
+- SQL (Intermediate)
 
----
+### Frameworks & Libraries
+- **Web:** Streamlit, Django, Flask
+- **ML/Data:** Scikit-learn, XGBoost, Pandas, Numpy
+- **Visualization:** Plotly, Matplotlib, Seaborn
+- **GUI:** Tkinter
 
-## 🛠 Technical Skills
-- **Languages:** Python, Java, C  
-- **Machine Learning:** Scikit‑Learn, XGBoost  
-- **Core CS:** Data Structures, DBMS, Operating Systems, Computer Networks  
-- **Tools & Platforms:** Git, GitHub, Streamlit  
+### Tools & Technologies
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Docker
+- MySQL, PostgreSQL
+- Excel/CSV Data Analysis
 
----
+## 📚 Projects
 
-## 📂 Projects
-- **EduTrack Dashboard (Python + Streamlit + Pandas)**  
-  Real‑time student management app to track attendance and marks.  
-  Features include interactive charts, alerts for low attendance, record management, and CSV/Excel export.  
-  👉 [Live Demo](https://edutrack-dashboard-fviqdsfdgvfyqd3ane6s2t.streamlit.app)
+### 1. LinkedIn Post Generator 🚀
+**Status:** Active Development
+- AI-powered LinkedIn post generator using Streamlit
+- Customizable tones and styles
+- Auto-hashtag generation
+- [Repository](https://github.com/vyshnavisalluri123-coder/linkedin-post-generator)
 
-- **Smart Attendance System (Python + Streamlit)**  
-  Web app to record and manage student attendance.  
-  Implemented CSV‑based storage for easy data handling.  
-  Designed a user‑friendly interface with Streamlit.  
-  Deployed locally and tested successfully.  
-  👉 [View Project](https://github.com/vyshnavisalluri123-coder/Smart-Attendance-System)
+### 2. EduTrack Dashboard 📊
+**Status:** Complete
+- Student management system with Streamlit
+- Real-time attendance and marks tracking
+- Analytics and performance charts
+- Data export to CSV/Excel
+- [Repository](https://github.com/vyshnavisalluri123-coder/EduTrack-Dashboard)
 
-- **Mushroom Classification ML Project with Tkinter GUI**  
-  Machine learning models to classify mushrooms as edible or poisonous.  
-  Implemented Logistic Regression, Decision Tree, Random Forest, and XGBoost with up to 99.9% accuracy.  
-  Integrated with a Tkinter GUI for interactive predictions.  
-  👉 [View Project](https://github.com/vyshnavisalluri123-coder/Mushroom-Classification)
+### 3. Attendance App 📋
+**Status:** Complete
+- Streamlit-based attendance tracking system
+- Quick marking and statistics
+- Low attendance alerts
+- Historical records and reports
+- [Repository](https://github.com/vyshnavisalluri123-coder/attendance-app)
 
----
+### 4. Mushroom Classification 🍄
+**Status:** Complete
+- ML classification model with 99% accuracy
+- Multiple algorithms: Random Forest, XGBoost, Logistic Regression
+- Tkinter GUI for predictions
+- Comprehensive data analysis
+- [Repository](https://github.com/vyshnavisalluri123-coder/Mushroom-Classification)
+
+## 📊 GitHub Statistics
+
+- **Total Repositories:** 5
+- **Public Projects:** 5
+- **Languages:** Python, JavaScript
+- **Focus Areas:** Machine Learning, Web Development, Data Science
+
+## 🎓 Education & Certifications
+
+- **Current:** Bachelor's/Master's in Computer Science
+- **Certifications:**
+  - Python Programming
+  - Machine Learning Basics
+  - Data Analysis with Pandas
+  - Web Development with Streamlit
 
 ## 🏆 Achievements
-- Contributed projects on GitHub with live deployment (EduTrack Dashboard, Attendance App, Mushroom Classifier).  
-- 🏆 Won 1st Prize in Chess (twice).  
+
+- ✅ Developed multiple production-ready Streamlit applications
+- ✅ Achieved 99% accuracy in ML mushroom classification project
+- ✅ Built comprehensive student management systems
+- ✅ Created AI-powered content generation tools
+
+## 🔗 Links
+
+- **GitHub:** [@vyshnavisalluri123-coder](https://github.com/vyshnavisalluri123-coder)
+- **Portfolio:** [Coming Soon]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [your-email@example.com]
+
+## 📈 Current Focus
+
+- 🚀 Expanding AI/ML expertise
+- 📚 Learning advanced deep learning techniques
+- 🤝 Contributing to open-source projects
+- 💡 Building more production-ready applications
+
+## 🤝 Let's Connect!
+
+I'm always interested in:
+- Collaborating on exciting projects
+- Contributing to open-source
+- Learning from experienced developers
+- Building impactful applications
+
+**Feel free to:**
+- Star my repositories ⭐
+- Fork and contribute
+- Open issues and discussions
+- Reach out for collaboration
 
 ---
 
-## 📬 Contact
-- 📧 Email: sallurivyshnavi35@gmail.com  
-- 📱 Phone: +91‑9347965529  
-- 🔗 GitHub: [vyshnavisalluri123-coder](https://github.com/vyshnavisalluri123-coder)  
-- 🔗 LinkedIn: [vyshnavi-salluri](https://linkedin.com/in/vyshnavi-salluri-62376b3a9)  
+**Last Updated:** May 2026
 
+**Made with ❤️ by Vyshnavi Salluri**
