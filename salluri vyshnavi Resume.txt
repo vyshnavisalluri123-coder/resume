@@ -3,7 +3,7 @@ SALLURI VYSHNAVI
 🔗 GitHub: github.com/vyshnavisalluri123-coder | 🔗 LinkedIn: linkedin.com/in/vyshnavi-salluri-62376b3a9
 
 Profile:
-Computer Science undergraduate (3rd year) passionate about software development and machine learning. Skilled in Python, Data Structures, and Machine Learning, with hands‑on experience in real‑time applications using Streamlit and GitHub deployment. Strong ability to prioritize tasks and manage time effectively, completing projects within deadlines while maintaining quality.
+Computer Science undergraduate (3rd year) passionate about software development and machine learning. Skilled in Python, Data Structures, and Machine Learning, with hands‑on experience in real‑world applications.
 
 Education:
 B.Tech – Computer Science and Engineering  
@@ -19,7 +19,7 @@ Technical Skills:
 Languages: Python, Java, C
 Machine Learning: Scikit‑Learn, XGBoost
 Core CS: Data Structures, DBMS, Operating Systems, Computer Networks
-Tools & Platforms: Git, GitHub, Streamlit
+Tools & Platforms: Git, GitHub, Streamlit, OpenAI API
 projects:
 
 EduTrack Dashboard (Python + Streamlit + Pandas)
@@ -42,6 +42,15 @@ Implemented Logistic Regression, Decision Tree, Random Forest, and XGBoost.
 Achieved up to 99.9% accuracy on test data.
 Performed preprocessing, feature engineering, and designed a prediction workflow.
 
+LinkedIn Post Generator (Python + Streamlit + OpenAI API)
+Built a Streamlit application that generates professional and engaging LinkedIn posts using AI.
+Implemented multiple tone styles: Professional, Casual, Story, and Bold formats.
+Features include auto hashtag generation, bullet point formatting, and one-click copy to clipboard.
+Integrated OpenAI API for intelligent content generation in seconds.
+Added export functionality to download posts as text files.
+User-friendly interface with customizable post length and styling options.
+👉 GitHub: linkedin-post-generator
+
 Achievements:
-Contributed projects on GitHub with live deployment (EduTrack Dashboard, Attendance App, Mushroom Classifier).
+Contributed projects on GitHub with live deployment (EduTrack Dashboard, Attendance App, Mushroom Classifier, LinkedIn Post Generator).
 🏆 Won 1st Prize in Chess (twice).
