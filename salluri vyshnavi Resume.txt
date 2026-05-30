@@ -89,6 +89,8 @@ PROJECTS
     Technical Highlights:
         • Python programming with data handling expertise
         • Cloud deployment and UI development
+    
+    GitHub: github.com/vyshnavisalluri123-coder/smart-attendance-system
 
 ─── Mushroom Classification System (Machine Learning) ───
     Description:
