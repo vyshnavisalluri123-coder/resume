@@ -1,56 +1,157 @@
-SALLURI VYSHNAVI
-📍 India | 📧 sallurivyshnavi35@gmail.com | 📱 +91‑9347965529
-🔗 GitHub: github.com/vyshnavisalluri123-coder | 🔗 LinkedIn: linkedin.com/in/vyshnavi-salluri-62376b3a9
+================================================================================
+                          SALLURI VYSHNAVI
+================================================================================
 
-Profile:
-Computer Science undergraduate (4th year) passionate about software development and machine learning. Skilled in Python, Data Structures, and Machine Learning, with hands‑on experience in real‑world applications.
+📍 India | 📧 sallurivyshnavi35@gmail.com | 📱 +91-9347965529
+🔗 GitHub: github.com/vyshnavisalluri123-coder
+🔗 LinkedIn: linkedin.com/in/vyshnavi-salluri-62376b3a9
 
-Education:
-B.Tech – Computer Science and Engineering  
-Trinity College of Engineering and Technology | 2023 – 2027 | CGPA: 8.2
+================================================================================
+PROFILE
+================================================================================
 
-Intermediate (12th)  
-TSWREIS Junior Girls College | 2021 – 2023 | 95%
+Computer Science undergraduate (4th year) passionate about software development 
+and machine learning. Skilled in Python, Data Structures, and Machine Learning, 
+with hands-on experience in real-world applications. Strong foundation in core 
+CS concepts and demonstrated ability to develop, deploy, and manage projects 
+independently. Seeking opportunities to apply technical skills and grow in a 
+collaborative environment.
 
-SSC (10th)  
-ZPSS Theegal Pahad | 2020 – 2021 | CGPA: 10
+================================================================================
+EDUCATION
+================================================================================
 
-Technical Skills:
-Languages: Python, Java, C
-Machine Learning: Scikit‑Learn, XGBoost
-Core CS: Data Structures, DBMS, Operating Systems, Computer Networks
-Tools & Platforms: Git, GitHub, Streamlit, OpenAI API
-projects:
+B.Tech – Computer Science and Engineering
+Trinity College of Engineering and Technology | 2023 – 2027
+CGPA: 8.2
 
-EduTrack Dashboard (Python + Streamlit + Pandas)
-Developed a real‑time student management app to track attendance and marks.
-Implemented interactive charts and alerts for low attendance.
-Added features for adding, updating, and deleting student records.
-Enabled CSV/Excel export for easy data handling.
-Deployed successfully on Streamlit Cloud with GitHub integration.
-👉 Live Demo: EduTrack Dashboard
+Intermediate (12th)
+TSWREIS Junior Girls College | 2021 – 2023
+Score: 95%
 
-Smart Attendance System (Python + Streamlit):
-Built a web app to record and manage student attendance.
-Implemented CSV‑based storage for easy data handling.
-Designed a user‑friendly interface with Streamlit and deployed on Streamlit Cloud.
-Demonstrated skills in Python programming, UI development, and cloud deployment.
+SSC (10th)
+ZPSS Theegal Pahad | 2020 – 2021
+CGPA: 10.0
 
-Mushroom Classification System
-Developed ML models to classify edible vs poisonous mushrooms.
-Implemented Logistic Regression, Decision Tree, Random Forest, and XGBoost.
-Achieved up to 99.9% accuracy on test data.
-Performed preprocessing, feature engineering, and designed a prediction workflow.
+================================================================================
+TECHNICAL SKILLS
+================================================================================
 
-LinkedIn Post Generator (Python + Streamlit + OpenAI API)
-Built a Streamlit application that generates professional and engaging LinkedIn posts using AI.
-Implemented multiple tone styles: Professional, Casual, Story, and Bold formats.
-Features include auto hashtag generation, bullet point formatting, and one-click copy to clipboard.
-Integrated OpenAI API for intelligent content generation in seconds.
-Added export functionality to download posts as text files.
-User-friendly interface with customizable post length and styling options.
-👉 GitHub: linkedin-post-generator
+Languages:
+    • Python, Java, C
 
-Achievements:
-Contributed projects on GitHub with live deployment (EduTrack Dashboard, Attendance App, Mushroom Classifier, LinkedIn Post Generator).
-🏆 Won 1st Prize in Chess (twice).
+Machine Learning & Data Science:
+    • Scikit-Learn, XGBoost, Pandas, NumPy
+    • Logistic Regression, Decision Trees, Random Forest, Classification Models
+
+Core Computer Science:
+    • Data Structures, DBMS, Operating Systems, Computer Networks
+
+Tools & Platforms:
+    • Git, GitHub, Streamlit, OpenAI API, Jupyter Notebook
+
+Web & Development:
+    • Python, UI Development, Cloud Deployment
+
+================================================================================
+PROJECTS
+================================================================================
+
+─── EduTrack Dashboard (Python + Streamlit + Pandas) ───
+    Description:
+        A real-time student management application designed to track attendance 
+        and academic performance seamlessly.
+    
+    Key Features:
+        • Interactive dashboard with real-time attendance tracking
+        • Real-time charts and alerts for low attendance notifications
+        • CRUD operations: Add, update, and delete student records
+        • CSV/Excel export functionality for easy data handling
+        • Responsive, user-friendly interface
+    
+    Technical Highlights:
+        • Deployed successfully on Streamlit Cloud
+        • GitHub integration for version control
+    
+    GitHub: github.com/vyshnavisalluri123-coder/edutrack-dashboard
+
+─── Smart Attendance System (Python + Streamlit) ───
+    Description:
+        A web-based application for efficient student attendance recording 
+        and management.
+    
+    Key Features:
+        • Record and manage student attendance seamlessly
+        • CSV-based storage for reliable data persistence
+        • User-friendly interface with Streamlit
+        • Deployed on Streamlit Cloud for easy access
+    
+    Technical Highlights:
+        • Python programming with data handling expertise
+        • Cloud deployment and UI development
+
+─── Mushroom Classification System (Machine Learning) ───
+    Description:
+        An advanced ML project for classifying mushroom species as edible 
+        or poisonous using multiple classification algorithms.
+    
+    Key Features:
+        • Multiple ML algorithms implemented:
+          - Logistic Regression
+          - Decision Tree
+          - Random Forest
+          - XGBoost
+        • Achieved 99.9% accuracy on test data
+        • Comprehensive data preprocessing and feature engineering
+        • Well-designed prediction workflow
+    
+    Technical Highlights:
+        • Data cleaning and exploratory analysis
+        • Feature engineering and selection
+        • Model comparison and optimization
+    
+    GitHub: github.com/vyshnavisalluri123-coder/mushroom-classifier
+
+─── LinkedIn Post Generator (Python + Streamlit + OpenAI API) ───
+    Description:
+        An intelligent AI-powered Streamlit application that generates 
+        professional and engaging LinkedIn posts in seconds.
+    
+    Key Features:
+        • AI-powered content generation using OpenAI API
+        • Multiple tone styles: Professional, Casual, Story, Bold
+        • Automatic hashtag generation
+        • Bullet point formatting and structuring
+        • One-click copy to clipboard functionality
+        • Export posts as text files
+        • Customizable post length and styling options
+    
+    Technical Highlights:
+        • OpenAI API integration
+        • Streamlit application development
+        • User-friendly interface design
+    
+    GitHub: github.com/vyshnavisalluri123-coder/linkedin-post-generator
+
+================================================================================
+ACHIEVEMENTS
+================================================================================
+
+    • Developed and deployed multiple projects with live demonstrations
+    • Achieved 99.9% accuracy in machine learning classification model
+    • Contributed consistently to GitHub with well-organized repositories
+    • 🏆 Won 1st Prize in Chess (twice)
+    • Strong academic performance with CGPA 8.2 in B.Tech
+    • Successfully integrated AI APIs and cloud deployment technologies
+
+================================================================================
+SOFT SKILLS
+================================================================================
+
+    • Problem-solving and analytical thinking
+    • Project management and organization
+    • Collaborative teamwork and communication
+    • Quick learner with strong technical aptitude
+    • Self-motivated and detail-oriented
+
+================================================================================
