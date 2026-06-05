@@ -77,6 +77,7 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
 
 - **Current:** Bachelor's/Master's in Computer Science
 - **Certifications:**
+  - 🏆 **IBM SkillsBuild - Artificial Intelligence Fundamentals** (Dec 2025) - [View Certificate](certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md)
   - Python Programming
   - Machine Learning Basics
   - Data Analysis with Pandas
@@ -88,6 +89,7 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
 - ✅ Achieved 99% accuracy in ML mushroom classification project
 - ✅ Built comprehensive student management systems
 - ✅ Created AI-powered content generation tools
+- ✅ Completed IBM SkillsBuild AI Fundamentals Course
 
 ## 🔗 Links
 
@@ -119,6 +121,6 @@ I'm always interested in:
 
 ---
 
-**Last Updated:** May 2026
+**Last Updated:** June 2026
 
-**Made with ❤️ by Vyshnavi Salluri**
+**Made with ❤️ by Vyshnavi Salluri
