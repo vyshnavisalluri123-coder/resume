@@ -77,7 +77,9 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
 
 - **Current:** Bachelor's/Master's in Computer Science
 - **Certifications:**
-  - 🏆 **IBM SkillsBuild - Artificial Intelligence Fundamentals** (Dec 2025) - [View Certificate](certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md)
+  - 🏆 **IBM SkillsBuild - Artificial Intelligence Fundamentals** (Dec 2025)
+    - [View Certificate Details](certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md)
+    - [Download PDF Certificate](certificates/Completion-Certificate-SkillsBuild.pdf)
   - Python Programming
   - Machine Learning Basics
   - Data Analysis with Pandas
