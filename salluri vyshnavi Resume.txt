@@ -1,5 +1,5 @@
 ================================================================================
-                          SALLURI VYSHNAVI
+                           SALLURI VYSHNAVI
 ================================================================================
 
 📍 India | 📧 sallurivyshnavi35@gmail.com | 📱 +91-9347965529
@@ -136,6 +136,22 @@ PROJECTS
     GitHub: github.com/vyshnavisalluri123-coder/linkedin-post-generator
 
 ================================================================================
+CERTIFICATIONS
+================================================================================
+
+✓ Junior Software Programmer
+  - Credential ID: [Available in certificate]
+  - Skills Validated: Software development, programming fundamentals,
+    coding best practices, and software engineering principles
+  - Certificate: certificates/Junior_Software_Programmer-S_VYSHNAVI.pdf
+
+✓ IBM SkillsBuild - Artificial Intelligence Fundamentals
+  - Course: Artificial Intelligence Fundamentals
+  - Credential ID: PLAN-7913EE1DB030
+  - Completed: December 23, 2025
+  - Certificate: certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md
+
+================================================================================
 ACHIEVEMENTS
 ================================================================================
 
@@ -145,6 +161,8 @@ ACHIEVEMENTS
     • 🏆 Won 1st Prize in Chess (twice)
     • Strong academic performance with CGPA 8.2 in B.Tech
     • Successfully integrated AI APIs and cloud deployment technologies
+    • ✓ Certified Junior Software Programmer with comprehensive programming expertise
+    • ✓ IBM SkillsBuild Certified in Artificial Intelligence Fundamentals
 
 ================================================================================
 SOFT SKILLS
