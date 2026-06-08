@@ -80,10 +80,7 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
   - 🏆 **IBM SkillsBuild - Artificial Intelligence Fundamentals** (Dec 2025)
     - [View Certificate Details](certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md)
     - [Download PDF Certificate](certificates/Completion-Certificate-SkillsBuild.pdf)
-  - Python Programming
-  - Machine Learning Basics
-  - Data Analysis with Pandas
-  - Web Development with Streamlit
+
 
 ## 🏆 Achievements
 
@@ -96,9 +93,8 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
 ## 🔗 Links
 
 - **GitHub:** [@vyshnavisalluri123-coder](https://github.com/vyshnavisalluri123-coder)
-- **Portfolio:** [Coming Soon]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [your-email@example.com]
+- **LinkedIn:** [inkedin.com/in/vyshnavi-salluri-62376b3a9/]
+- **Email:** [sallurivyshnavi35@gmail.com]
 
 ## 📈 Current Focus
 
