@@ -77,13 +77,15 @@ I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** wi
 
 - **Current:** Bachelor's/Master's in Computer Science
 - **Certifications:**
+  - 🏆 **Junior Software Programmer** 
+    - [Download PDF Certificate](certificates/Junior_Software_Programmer-S_VYSHNAVI.pdf)
   - 🏆 **IBM SkillsBuild - Artificial Intelligence Fundamentals** (Dec 2025)
     - [View Certificate Details](certificates/IBM-SkillsBuild-AI-Fundamentals-Dec2025.md)
     - [Download PDF Certificate](certificates/Completion-Certificate-SkillsBuild.pdf)
 
-
 ## 🏆 Achievements
 
+- ✅ Certified as Junior Software Programmer
 - ✅ Developed multiple production-ready Streamlit applications
 - ✅ Achieved 99% accuracy in ML mushroom classification project
 - ✅ Built comprehensive student management systems
